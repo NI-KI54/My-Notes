@@ -1,7 +1,7 @@
 const btnEl = document.getElementById("btn");
 
 function createNoteEl(id, content){
-    console.log(id,content);
+    const element = document.createElement{"textarea"}
 };
 
 function addnote(){
